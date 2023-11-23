@@ -1,8 +1,12 @@
 # AML-Data
 NOTE:  Although this Github repository is under the Apache-2.0 license, the actual data is released under the [CDLA-Sharing-1.0 license](https://spdx.org/licenses/CDLA-Sharing-1.0.html).
-
-**DATA:**  https://ibm.box.com/v/AML-Anti-Money-Laundering-Data
-
+<br>
+<br>
+**NEW AND IMPROVED DATA ON KAGGLE:**  https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml  
+  
+**ORIGINAL DATA ON BOX:**  https://ibm.box.com/v/AML-Anti-Money-Laundering-Data  
+<br>
+<br>
 **[PDF DOCUMENTATION](https://ibm.box.com/v/AML-Anti-Money-Laundering-Data/file/780515045707)**
 
 **AML** = **A**nti **M**oney **L**aundering
